@@ -38,24 +38,32 @@ Todas as funcionalidades do App são baseadas na geolocalização do usuário (c
 
 Diversos dados são exibidos em tela para que o usuário tenha diferentes tipos de informação em relação ao clima.
 
-<img width="300" src="https://cdn.discordapp.com/attachments/727585262653145129/995049539725709465/end2end.gif" />
+<p float="left">
+  <img width="300" src="https://cdn.discordapp.com/attachments/727585262653145129/995049539725709465/end2end.gif" />
+</p>
 
 - Clima atual
+
 <p float="left">
   <img width="300" src="https://cdn.discordapp.com/attachments/727585262653145129/995029167106171011/home_day_1.png" />
   <img width="300" src="https://cdn.discordapp.com/attachments/727585262653145129/995029168779698246/home_night_1.png" />
 </p>
+
 - Clima nas próximas horas
 - Clima nos próximos dias da semana
+
 <p float="left">
   <img width="300" src="https://cdn.discordapp.com/attachments/727585262653145129/995029167412346880/home_day_2.png" />
   <img width="300" src="https://cdn.discordapp.com/attachments/727585262653145129/995029169383682159/home_night_2.png" />
 </p>
-- Dados em relação a sensação térmica, umidade relativa do ar, pressão e velocidade do vento;
+
+- Dados em relação a sensação térmica, umidade relativa do ar, pressão e velocidade do vento
+
 <p float="left">
   <img width="300" src="https://cdn.discordapp.com/attachments/727585262653145129/995029167777267842/home_day_3.png" />
   <img width="300" src="https://cdn.discordapp.com/attachments/727585262653145129/995029169870229585/home_night_3.png" />
 </p>
+
 Vale destacar também que no cabeçalho do App possui um botão de Refresh, portanto caso o usuário queira recarregar os dados exibidos, basta pressionar o botão e aguardar para que a requisição seja realizada.
 
 ### Tematização
