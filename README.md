@@ -38,9 +38,7 @@ Todas as funcionalidades do App são baseadas na geolocalização do usuário (c
 
 Diversos dados são exibidos em tela para que o usuário tenha diferentes tipos de informação em relação ao clima.
 
-<p float="left">
-  <img width="300" src="https://cdn.discordapp.com/attachments/727585262653145129/995049539725709465/end2end.gif" />
-</p>
+![Fluxo do App](https://cdn.discordapp.com/attachments/727585262653145129/995049539725709465/end2end.gif)
 
 - Clima atual
 
