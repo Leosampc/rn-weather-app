@@ -24,7 +24,7 @@
 
 #### Descrição
 
-###### Aplicativo que exibe os dados de clima baseado na localização atual do usuário.
+###### Aplicativo que exibe os dados de clima baseado na localização atual do usuário através das APIs do [OpenWeatherMap](https://openweathermap.org).
 
 ---
 
