@@ -99,9 +99,8 @@ function Home() {
     [weather],
   );
 
-  const renderListItem: ListRenderItem<TypesWeather.Weather> = useCallback(
-    ({ item }) => <NextHour data={item} />,
-    [],
+  const renderListItem: ListRenderItem<TypesWeather.Weather> = ({ item }) => (
+    <NextHour data={item} />
   );
 
   const getNext24Hours = () => weather.hourly.slice(1, 25);
